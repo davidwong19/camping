@@ -2,33 +2,33 @@
 
 
 
-##for frontend install
+## for frontend install
 
---npm install axios
+-npm install axios
 
---npm install -g @vue/cli
+-npm install -g @vue/cli
 
---npm install vue-router
+-npm install vue-router
 
-npm install tailwindcss
+-npm install tailwindcss
 
-npm install cors
+-npm install cors
 
 
 
-##for back end im using sql studio20 database
+## for back end im using sql studio20 database
 
-im using localhost
+-im using localhost
 
-package to install are:
+-package to install are:
 
-Microsoft.AspNetCore.Cors
+-Microsoft.AspNetCore.Cors
 
-Microsoft.EntityFrameworkCore.SqlServer
+-Microsoft.EntityFrameworkCore.SqlServer
 
-Microsoft.EntityFrameworkCore.Tools
+-Microsoft.EntityFrameworkCore.Tools
 
-Swashbuckle.AspNetCore
+-Swashbuckle.AspNetCore
 
-BCrypt.Net
+-BCrypt.Net
 
