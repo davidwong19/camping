@@ -1,15 +1,14 @@
 # camping
 
 
-
-#for frontend install
+#
+for frontend install
 #npm install axios
 #npm install -g @vue/cli
 #npm install vue-router
 #npm install tailwindcss
 #npm install cors
 
-#
 
 
 #for back end im using sql studio20 database
